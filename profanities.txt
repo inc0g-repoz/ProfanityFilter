@@ -1,0 +1,33 @@
+# English swearings
+
+a+[sz]{2,}
+b+[au]+s+t+a
+b+i+a*t*c+h
+c+o+c*k
+c+u+n+t
+d+i+c*k
+d+u+m+b
+f+o{2,}
+f+a+g+
+f+[u]+(c*k+|g{2,})
+[ie]+d+[ie]+o+[dt]
+n+u+t+[sz]
+p+i+s{2,}
+p+[au]+n+[gk]
+t+[au]*r+[dt]+[ae]*[dt]*$
+s+h+i+[^$mnp]
+s+t+f+u
+s+t+u*p+i*d
+s+u+g+m+[ay]
+
+# Russian swearings
+
+[6bб]+[lл]+([eyеиу]+[aа]+|эюя+)
+[eiиеэ]+[6bб]+[aeiouаеиоу]+((c+h)|[klntклнтч])
+[mм]+[oао]*[nн]+[dд]+[^rp]
+[нn]+[iyиы]+[гg]+[aeioruyаеиору]
+[pп]+[eiеи]+[dд]+[aoао]*[prр]+
+[pп]+[eiеёи]*[zз]+[dд]+
+[csс]+[uyу]+((c+h)|[kкч])
+[hxх]+[uyу]+[iyеёийюя]+
+((s+h*)|ш+)[lл]+[u|ю]+[хшщ]+
