@@ -17,7 +17,7 @@ p+[au]+n+[gk]
 t+[au]*r+[dt]+[ae]*[dt]*$
 s+h+i+[^$mnp]
 s+t+f+u
-s+t+u*p+i*d
+s+t+[ou]*p+[ei]*d
 s+u+g+m+[ay]
 
 # Russian swearings
